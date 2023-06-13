@@ -1,0 +1,9 @@
+# LecteurDiaporama
+SAE 2.01 lecteur de diaporama
+Groupe de Audouard Raphäel, Lagüe Théo, et Gentil Rémi
+TD2 TP4 
+Année 2022-2023
+1ère année de BUT Informatique
+lien du repository PUBLIC: https://github.com/AirG33/LecteurDiaporama
+
+Le dossier Image cartesDisney ce trouve dans le main du repository LecteurDiaporama et il devrat etre déposé dans chaque dossier des versions suivantes: V2, V3, et V4.
