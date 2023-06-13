@@ -6,18 +6,12 @@ Année 2022-2023
 1ère année de BUT Informatique
 lien du repository PUBLIC: https://github.com/AirG33/LecteurDiaporama
 
-Nous avons fait pour le rendu du 05/06/2023 toutes les versions jusqu'à la V5.
-environ 30 commits ont été effectués sur ce repository
+Nous avons fait pour le rendu du 13/06/2023 toutes les versions jusqu'à la V6.
+environ 40 commits ont été effectués sur ce repository
 
 Temps global de travail: 
 Nous avons travaillé lors des séances de SAE ce qui représente 24 heures de projet au sein de l’iut, puis depuis chez nous, nous avons travaillé environ 30 heures en groupe ou à distance hors IUT.
 Ce qui ferait un total de 54 heures de travail pour ce projet. Avec une durée de travail égale entre chaque membre du groupe.
-
-Apprentissages majeurs:
-Lors de cette SAE nous avons pu apprendre la gestion entre de nombreuses interfaces graphiques, la gestion des bases de données au sein de code ainsi que l’inclusions d’images et leurs modifications dans une interface graphique.
-
-Difficultés majeures: 
-Nos principales difficultés ont été rencontrées notamment lors dès premières versions (V0 à V2) ou nous avons eu beaucoup de mal à démarrer et comprendre réellement l’objectif et les méthodes à mettre en place. Nous avons aussi rencontré beaucoup de difficultés au niveau de la réflexion qui au sein du groupe était plutôt lente car nous avions eu du mal à trouver les solutions pour parvenir aux objectifs ce qui a donc nécessité de nombreuses modifications et améliorations lors de travaux réalisés hors horaires prévus au sein de l’IUT.
 
 Points positifs / négatifs de l’activité:
 Les points positifs ont été le choix du thème qui est intéressant et donne envie de réaliser le projet,
